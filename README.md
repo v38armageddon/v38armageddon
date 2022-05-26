@@ -4,7 +4,7 @@ I'm v38armageddon, a simple man who make things.
 
 ## 📕 My projects:
 - 💾 Vincent OS
-- 📦 Arch Downgrader GUI
+<!-- Abandonned, maybe relaunched in the futur- 📦 Arch Downgrader GUI -->
 - 🤖 Pairmir
 - 🔢 Guess number
 
