@@ -4,9 +4,9 @@ I'm v38armageddon, a simple man who make things.
 
 ## 📕 My projects:
 - 💾 Vincent OS
-<!-- Abandonned, maybe relaunched in the futur- 📦 Arch Downgrader GUI -->
 - 🤖 Pairmir
 - 🔢 Guess number
+<!-- Abandonned, maybe relaunched in the futur- 📦 Arch Downgrader GUI -->
 
 ## 📈 Statistics
 <!-- Credits to https://github.com/anuraghazra/github-readme-stats -->
