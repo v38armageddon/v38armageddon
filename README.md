@@ -4,6 +4,7 @@ I'm v38armageddon, a simple man who make things.
 
 ## 📕 My projects:
 - 💾 Vincent OS
+- ❓ Daily Enigma
 - 🤖 Pairmir
 - 🔢 Guess number
 
