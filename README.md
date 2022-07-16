@@ -18,7 +18,7 @@ I started with Visual Basic .NET and Visual Studio 2010 Express with the project
 
 Now I'm using Visual Studio 2022 Community, Visual Studio Code and I do my projects most in C#.
 
-I could consider myself a .NET developer.
+I could consider myself as a .NET developer.
 
 ## 🖥️ My languages and tools:
 <div>
