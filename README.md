@@ -11,6 +11,15 @@ I'm v38armageddon, a simple man who make software.
   <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge">
 </div>
 
+## :man_technologist: About Me:
+I'm a man, from 🇨🇵 France, I develop software since my 12 years old. I am a very creative person.
+
+I started with Visual Basic .NET and Visual Studio 2010 Express with the project: Vincent OS.
+
+Now I'm using Visual Studio 2022 Community, Visual Studio Code and I do my projects most in C#.
+
+I could consider myself a .NET developer.
+
 ## 🖥️ My languages and tools:
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40">
