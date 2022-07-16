@@ -1,6 +1,6 @@
 # Welcome!
 
-<img src="https://github.com/v38armageddon/v38armageddon/blob/main/Assets/Banner%20header.png" alt="Banner header" width="667" height="375">
+<img src="https://github.com/v38armageddon/v38armageddon/blob/main/Assets/Banner%20header.png" alt="Banner header">
 
 I'm v38armageddon, a simple man who make software.
 
