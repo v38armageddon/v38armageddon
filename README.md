@@ -36,8 +36,6 @@ I could consider myself as a .NET developer.
 ## 📕 My projects:
 - 💾 Vincent OS
 - 🌐 WebSM
-- ❓ Daily Enigma
-- 🤖 Pairmir
 
 ## 📈 Statistics
 <!-- Credits to https://github.com/anuraghazra/github-readme-stats -->
