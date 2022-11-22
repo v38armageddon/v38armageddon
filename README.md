@@ -7,7 +7,7 @@ I'm v38armageddon, a simple man who make software.
 <div id="badges">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitch-blueviolet?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Mastodon-blueviolet?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
   <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge">
 </div>
 
