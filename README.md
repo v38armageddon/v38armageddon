@@ -41,6 +41,7 @@ More information about me: https://www.v38armageddon.cf/about
 - 💾 Vincent OS
 - 🌐 WebSM
 - 📺 MediaBrowser
+- 📡 Pwsh IpScanner
 
 ## 📈 Statistics
 <!-- Credits to https://github.com/anuraghazra/github-readme-stats -->
