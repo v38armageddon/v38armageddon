@@ -27,7 +27,6 @@ More information about me: https://www.v38armageddon.cf/about
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="40" height="40">
     <img src="https://winaero.com/blog/wp-content/uploads/2020/03/PowerShell-7-new-icon.png" title="PowerShell" alt="PowerShell" width="40" height="40">
     <img src="https://pics.computerbase.de/9/9/2/3/0-e36f805671c3b980/logo-192.2833764d.png" title="VisualStudio" alt="VisualStudio" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40">
@@ -39,9 +38,9 @@ More information about me: https://www.v38armageddon.cf/about
 
 ## 📕 My projects:
 - 💾 Vincent OS
-- 🌐 WebSM
 - 📺 MediaBrowser
 - 📡 Pwsh IpScanner
+- 🤖 SackUnion
 
 ## 📈 Statistics
 <!-- Credits to https://github.com/anuraghazra/github-readme-stats -->
