@@ -20,7 +20,7 @@ Now I'm using Visual Studio 2022 Community, Visual Studio Code and I do my proje
 
 I could consider myself as a .NET developer.
 
-More information about me: https://www.v38armageddon.cf/about
+More information about me: https://about.v38armageddon.net/about
 
 ## 🖥️ My languages and tools:
 <div>
