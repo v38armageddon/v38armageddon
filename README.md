@@ -40,7 +40,6 @@ More information about me: https://about.v38armageddon.net/about
 - 💾 Vincent OS
 - 📺 MediaBrowser
 - 📡 Pwsh IpScanner
-- 🤖 SackUnion
 
 ## 📈 Statistics
 <!-- Credits to https://github.com/anuraghazra/github-readme-stats -->
