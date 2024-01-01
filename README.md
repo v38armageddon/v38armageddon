@@ -20,4 +20,4 @@ You can contribute to any project by following the CONTRIBUTE.md file.
 
 -----------------------
 
-© 2020 - 2023 v38armageddon - All Right reserved - [Terms of service](https://www.v38armageddon.net/Terms-Of-Service) - [Privacy](https://www.v38armageddon.net/Privacy)
+© 2020 - 2024 v38armageddon - All Right reserved - [Terms of service](https://www.v38armageddon.net/Terms-Of-Service) - [Privacy](https://www.v38armageddon.net/Privacy)
